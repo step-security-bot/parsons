@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 python:3.8
+FROM --platform=linux/amd64 python:3.8@sha256:ecd06b59ae52c021ae58b8fea0957bf5b0f4568783cb0240b56e06ed1720cc19
 
 ####################
 ## Selenium setup ##
